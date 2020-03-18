@@ -1,0 +1,19 @@
+{
+	"select_lang" : "Language",
+	"about":"About us",
+
+	"slideblock": {
+		"title":"Production technology",
+		"desc":"Find out more about our technology."
+	},
+
+	"more":"More",
+	"gallery":"Gallery",
+	"partners":"Partners",
+	"top_workers":"Employees of the month",
+	"last_posts":"Last news",
+	"navigation":"Navigation",
+	"contacts":"Contacts",
+	"copy":"2019 Central Processing Plant \"Krasnokamenskaya\".",
+	"policy":"Privacy Policy"
+}

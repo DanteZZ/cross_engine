@@ -1,0 +1,10 @@
+{
+   "name" : "simple",
+   "elements_folder" : "elements",
+   "pages" : {
+      "" : {
+         "title":"Главная",
+         "element":"index"
+      }
+   }
+}
